@@ -1,0 +1,16 @@
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\bin\Debug\net8.0\CursoreLite.exe
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\bin\Debug\net8.0\CursoreLite.deps.json
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\bin\Debug\net8.0\CursoreLite.runtimeconfig.json
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\bin\Debug\net8.0\CursoreLite.runtimeconfig.dev.json
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\bin\Debug\net8.0\CursoreLite.dll
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\bin\Debug\net8.0\CursoreLite.pdb
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Debug\net8.0\CursoreLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Debug\net8.0\CursoreLite.AssemblyInfoInputs.cache
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Debug\net8.0\CursoreLite.AssemblyInfo.cs
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Debug\net8.0\CursoreLite.csproj.CoreCompileInputs.cache
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Debug\net8.0\CursoreLite.dll
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Debug\net8.0\refint\CursoreLite.dll
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Debug\net8.0\CursoreLite.pdb
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Debug\net8.0\CursoreLite.genruntimeconfig.cache
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Debug\net8.0\ref\CursoreLite.dll
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Debug\net8.0\CursoreL.CA86812A.Up2Date

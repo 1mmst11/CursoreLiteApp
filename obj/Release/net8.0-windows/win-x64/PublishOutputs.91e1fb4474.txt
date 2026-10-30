@@ -1,0 +1,2 @@
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\bin\Release\net8.0-windows\publish\CursoreLite.pdb
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\bin\Release\net8.0-windows\publish\CursoreLite.exe

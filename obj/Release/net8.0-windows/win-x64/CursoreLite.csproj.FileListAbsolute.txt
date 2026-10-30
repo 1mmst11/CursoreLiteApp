@@ -1,0 +1,15 @@
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\bin\Release\net8.0-windows\win-x64\CursoreLite.exe
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\bin\Release\net8.0-windows\win-x64\CursoreLite.deps.json
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\bin\Release\net8.0-windows\win-x64\CursoreLite.runtimeconfig.json
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\bin\Release\net8.0-windows\win-x64\CursoreLite.dll
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\bin\Release\net8.0-windows\win-x64\CursoreLite.pdb
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Release\net8.0-windows\win-x64\CursoreLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Release\net8.0-windows\win-x64\CursoreLite.AssemblyInfoInputs.cache
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Release\net8.0-windows\win-x64\CursoreLite.AssemblyInfo.cs
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Release\net8.0-windows\win-x64\CursoreLite.csproj.CoreCompileInputs.cache
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Release\net8.0-windows\win-x64\CursoreLite.dll
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Release\net8.0-windows\win-x64\refint\CursoreLite.dll
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Release\net8.0-windows\win-x64\CursoreLite.pdb
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Release\net8.0-windows\win-x64\CursoreLite.genruntimeconfig.cache
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Release\net8.0-windows\win-x64\ref\CursoreLite.dll
+C:\Users\1mms1\Desktop\CursoreLite\CursoreLite\obj\Release\net8.0-windows\win-x64\CursoreL.CA86812A.Up2Date
